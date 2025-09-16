@@ -57,6 +57,7 @@ Project Managers often spend significant time manually preparing weekly Project 
 
 ## 📄 References
 
+- Design Document [Solution Design Document.docx](https://github.com/nitjain/PMOpsAgent/blob/01e00748f213072658653b94be50ee6d7af67083/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20-%20Solution%20Design%20Document.docx)
 
 - [Solution Design Document:]
 (https://github.com/nitjain/PMOpsAgent/blob/01e00748f213072658653b94be50ee6d7af67083/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20-%20Solution%20Design%20Document.docx)
