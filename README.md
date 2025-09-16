@@ -62,7 +62,12 @@ Project Managers often spend significant time manually preparing weekly Project 
 
 ---
 
-## 🙏 Acknowledgements
+## 👥 Contributors
+
+- @Ashfaq Ahmed — [Ashfaq.Ahmed@microsoftcom
+- @Ravindra Tiwary — [Ravindra.Tiwary@microsoft.com](mailto:Ravindra.Tiwary@microsoft.com)
+microsoft.com](mailto:vbhadauria@microsoft.com)
+
 
 Thank you for exploring the PM Ops Copilot Agent! For more details, refer to the solution design documentation or reach out to the project team.
 
