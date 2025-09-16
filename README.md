@@ -64,9 +64,9 @@ Project Managers often spend significant time manually preparing weekly Project 
 
 ## 👥 Contributors
 
-- @Ashfaq Ahmed — [Ashfaq.Ahmed@microsoft.com]
-- @Ravindra Tiwary — [Ravindra.Tiwary@microsoft.com]
-- @Vinay Pratap Bhadauria - [vbhadauria@microsoft.com)
+- Ashfaq Ahmed — [Ashfaq.Ahmed@microsoft.com]
+- Ravindra Tiwary — [Ravindra.Tiwary@microsoft.com]
+- Vinay Pratap Bhadauria - [vbhadauria@microsoft.com)
 
 
 ## 🙏 Acknowledgements
