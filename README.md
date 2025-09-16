@@ -6,7 +6,7 @@ Automate and standardize project status reporting for better efficiency and accu
 
 ## 🚀 Overview
 
-**PM Ops Copilot Agent** revolutionizes project status reporting by automating and standardizing the process, enhancing both efficiency and accuracy. Designed for IT project stakeholders, it eliminates manual reporting and provides real-time project insights—right within Microsoft Teams.[PM Ops Copilot Agent.pptx](https://github.com/nitjain/PMOpsAgent/blob/431140e8990b5ca98c557283030c447e20560ebd/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20Agent.pptx)
+**PM Ops Copilot Agent** revolutionizes project status reporting by automating and standardizing the process, enhancing both efficiency and accuracy. Designed for IT project stakeholders, it eliminates manual reporting and provides real-time project insights—right within Microsoft Teams.[PM Ops Copilot Agent](https://github.com/nitjain/PMOpsAgent/blob/af9aa023c7b7ac73fca5d136127f7d21255059eb/Assets%20%26%20Artifacts/PM%20Ops%20Agent.mp4)
 
 ---
 
