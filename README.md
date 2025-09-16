@@ -6,7 +6,7 @@ Automate and standardize project status reporting for better efficiency and accu
 
 ## 🚀 Overview
 
-**PM Ops Copilot Agent** revolutionizes project status reporting by automating and standardizing the process, enhancing both efficiency and accuracy. Designed for IT project stakeholders, it eliminates manual reporting and provides real-time project insights—right within Microsoft Teams.[PM Ops Copilot Agent.pptx](https://microsoftapc-my.sharepoint.com/personal/jainnitin_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B626D57C2-D0ED-4634-8F26-8718818566CC%7D&file=PM%20Ops%20Copilot%20Agent.pptx&action=edit&mobileredirect=true&EntityRepresentationId=8b79f86e-51f3-4038-8e37-bc89c153f240)
+**PM Ops Copilot Agent** revolutionizes project status reporting by automating and standardizing the process, enhancing both efficiency and accuracy. Designed for IT project stakeholders, it eliminates manual reporting and provides real-time project insights—right within Microsoft Teams.[PM Ops Copilot Agent.pptx](https://github.com/nitjain/PMOpsAgent/blob/431140e8990b5ca98c557283030c447e20560ebd/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20Agent.pptx)
 
 ---
 
@@ -17,7 +17,7 @@ Automate and standardize project status reporting for better efficiency and accu
 - **Regional & Solution Area Insights:** Filter reports by geography or business unit.
 - **Instant Data Access:** No more waiting for manual reports.
 - **Collaboration-Ready:** Share insights directly in Teams.
-- **Scalable & Customizable:** Fits diverse project needs.[PM Ops Copilot Agent.pptx](https://microsoftapc-my.sharepoint.com/personal/jainnitin_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B626D57C2-D0ED-4634-8F26-8718818566CC%7D&file=PM%20Ops%20Copilot%20Agent.pptx&action=edit&mobileredirect=true&EntityRepresentationId=8b79f86e-51f3-4038-8e37-bc89c153f240)
+- **Scalable & Customizable:** Fits diverse project needs.[PM Ops Copilot Agent.pptx](https://github.com/nitjain/PMOpsAgent/blob/431140e8990b5ca98c557283030c447e20560ebd/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20Agent.pptx)
 
 ---
 
@@ -26,7 +26,7 @@ Automate and standardize project status reporting for better efficiency and accu
 - **Platform:** Built on Microsoft Copilot Studio (low-code platform for intelligent agent creation and automation).
 - **Data Sources:** Integrates with Virtuoso, Azure DevOps (ADO), SharePoint, and more.
 - **Deployment:** Embedded in Microsoft Teams for seamless access.
-- **Security:** Enterprise-grade compliance and role-based access control.[PM Ops Copilot Agent.pptx](https://microsoftapc-my.sharepoint.com/personal/jainnitin_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B626D57C2-D0ED-4634-8F26-8718818566CC%7D&file=PM%20Ops%20Copilot%20Agent.pptx&action=edit&mobileredirect=true&EntityRepresentationId=8b79f86e-51f3-4038-8e37-bc89c153f240)
+- **Security:** Enterprise-grade compliance and role-based access control.[PM Ops Copilot Agent.pptx](https://github.com/nitjain/PMOpsAgent/blob/431140e8990b5ca98c557283030c447e20560ebd/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20Agent.pptx)
 
 ---
 
@@ -36,7 +36,7 @@ Automate and standardize project status reporting for better efficiency and accu
 - **Standardizes Reports:** Ensures consistent formats across all projects.
 - **Accelerates Decision-Making:** Real-time insights enable proactive management.
 - **Reduces Delays:** Automated workflows minimize inefficiency and redundancy.
-- **Enhances Collaboration:** Share and discuss insights instantly within Teams.[PM Ops Copilot Agent.pptx](https://microsoftapc-my.sharepoint.com/personal/jainnitin_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B626D57C2-D0ED-4634-8F26-8718818566CC%7D&file=PM%20Ops%20Copilot%20Agent.pptx&action=edit&mobileredirect=true&EntityRepresentationId=8b79f86e-51f3-4038-8e37-bc89c153f240)
+- **Enhances Collaboration:** Share and discuss insights instantly within Teams.[PM Ops Copilot Agent.pptx](https://github.com/nitjain/PMOpsAgent/blob/431140e8990b5ca98c557283030c447e20560ebd/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20Agent.pptx)
 
 ---
 
@@ -51,7 +51,7 @@ Automate and standardize project status reporting for better efficiency and accu
 
 ## 📝 Solution Background
 
-Project Managers often spend significant time manually preparing weekly Project Status Reports (PSRs), leading to inconsistent formats, delays, and redundant work—even when project data is already available in centralized repositories like Virtuoso. PM Ops Copilot Agent automates PSR generation, enabling standardized, timely, and efficient reporting with minimal manual intervention.[PM Ops Copilot Agent.pptx](https://microsoftapc-my.sharepoint.com/personal/jainnitin_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B626D57C2-D0ED-4634-8F26-8718818566CC%7D&file=PM%20Ops%20Copilot%20Agent.pptx&action=edit&mobileredirect=true&EntityRepresentationId=8b79f86e-51f3-4038-8e37-bc89c153f240)
+Project Managers often spend significant time manually preparing weekly Project Status Reports (PSRs), leading to inconsistent formats, delays, and redundant work—even when project data is already available in centralized repositories like Virtuoso. PM Ops Copilot Agent automates PSR generation, enabling standardized, timely, and efficient reporting with minimal manual intervention.[PM Ops Copilot Agent.pptx](https://github.com/nitjain/PMOpsAgent/blob/431140e8990b5ca98c557283030c447e20560ebd/Assets%20%26%20Artifacts/PM%20Ops%20Copilot%20Agent.pptx)
 
 ---
 
