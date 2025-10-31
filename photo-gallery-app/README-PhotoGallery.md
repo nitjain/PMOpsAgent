@@ -2,6 +2,13 @@
 
 A modern, client-side photo gallery application built with Angular 17, featuring Microsoft Entra ID authentication, Azure Blob Storage integration, and PWA capabilities.
 
+## 📚 Documentation
+
+- 🚀 **[Quick Start Guide](QUICKSTART.md)** - Get running in 10 minutes
+- 📖 **[Complete Setup Guide](../SETUP-GUIDE.md)** - Detailed Azure configuration
+- 🏗️ **[Architecture Documentation](ARCHITECTURE.md)** - System design and data flows
+- ⚙️ **[Configuration Template](CONFIG-TEMPLATE.md)** - Configuration checklist
+
 ## Features
 
 ### 🔐 Authentication

@@ -24,7 +24,7 @@ A modern, Google Photos-style web application built entirely with Angular 17 tha
 - 🔍 Search and filter by tags and dates
 - 📤 Drag & drop multi-file uploads
 
-📖 [Photo Gallery Documentation](photo-gallery-app/README-PhotoGallery.md) | 🚀 [Setup Guide](SETUP-GUIDE.md)
+📖 [Full Documentation](photo-gallery-app/README-PhotoGallery.md) | 🚀 [Setup Guide](SETUP-GUIDE.md) | ⚡ [Quick Start](photo-gallery-app/QUICKSTART.md) | 🏗️ [Architecture](photo-gallery-app/ARCHITECTURE.md)
 
 ---
 
