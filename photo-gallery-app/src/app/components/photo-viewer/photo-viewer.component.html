@@ -1,0 +1,77 @@
+<div class="photo-viewer">
+  <!-- Header -->
+  <div class="viewer-header">
+    <h2 mat-dialog-title>{{ photo.fileName }}</h2>
+    <button mat-icon-button (click)="close()">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+
+  <!-- Content -->
+  <div mat-dialog-content class="viewer-content">
+    <!-- Photo Display -->
+    <div class="photo-container">
+      <img [src]="photo.blobUrl" [alt]="photo.fileName">
+    </div>
+
+    <!-- Metadata Panel -->
+    <div class="metadata-panel">
+      <!-- Actions -->
+      <div class="actions">
+        <button mat-raised-button (click)="toggleFavorite()" [color]="photo.isFavorite ? 'warn' : 'primary'">
+          <mat-icon>{{ photo.isFavorite ? 'favorite' : 'favorite_border' }}</mat-icon>
+          {{ photo.isFavorite ? 'Unfavorite' : 'Favorite' }}
+        </button>
+        <button mat-raised-button color="primary" (click)="downloadPhoto()">
+          <mat-icon>download</mat-icon>
+          Download
+        </button>
+        <button mat-raised-button color="warn" (click)="deletePhoto()" [disabled]="isDeleting">
+          <mat-icon>delete</mat-icon>
+          Delete
+        </button>
+      </div>
+
+      <!-- Photo Info -->
+      <div class="info-section">
+        <h3>Information</h3>
+        <div class="info-item">
+          <strong>Upload Date:</strong>
+          <span>{{ formatDate(photo.uploadDate) }}</span>
+        </div>
+        <div class="info-item">
+          <strong>File Size:</strong>
+          <span>{{ formatFileSize(photo.size) }}</span>
+        </div>
+        <div class="info-item">
+          <strong>Type:</strong>
+          <span>{{ photo.mimeType }}</span>
+        </div>
+      </div>
+
+      <!-- Tags -->
+      <div class="tags-section">
+        <h3>Tags</h3>
+        <div class="tags-container">
+          <mat-chip-set>
+            <mat-chip *ngFor="let tag of photo.tags" (removed)="removeTag(tag)">
+              {{ tag }}
+              <button matChipRemove>
+                <mat-icon>cancel</mat-icon>
+              </button>
+            </mat-chip>
+          </mat-chip-set>
+        </div>
+        <div class="add-tag">
+          <mat-form-field appearance="outline" class="tag-input">
+            <mat-label>Add tag</mat-label>
+            <input matInput [(ngModel)]="newTag" (keyup.enter)="addTag()" placeholder="Enter tag name">
+          </mat-form-field>
+          <button mat-icon-button color="primary" (click)="addTag()" [disabled]="!newTag.trim()">
+            <mat-icon>add</mat-icon>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

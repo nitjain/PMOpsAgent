@@ -1,12 +1,34 @@
-# PM Ops Copilot Agent
+# PMOpsAgent Repository
 
-Automate and standardize project status reporting for better efficiency and accuracy.
+This repository contains two main projects demonstrating modern application development with Azure and Microsoft services.
 
 ---
 
-## 🚀 Overview
+## 📁 Projects
 
-**PM Ops Copilot Agent** revolutionizes project status reporting by automating and standardizing the process, enhancing both efficiency and accuracy. Designed for IT project stakeholders, it eliminates manual reporting and provides real-time project insights—right within Microsoft Teams.[PM Ops Copilot Agent](https://github.com/nitjain/PMOpsAgent/blob/af9aa023c7b7ac73fca5d136127f7d21255059eb/Assets%20%26%20Artifacts/PM%20Ops%20Agent.mp4)
+### 1. PM Ops Copilot Agent
+Automate and standardize project status reporting for better efficiency and accuracy.
+
+**PM Ops Copilot Agent** revolutionizes project status reporting by automating and standardizing the process, enhancing both efficiency and accuracy. Designed for IT project stakeholders, it eliminates manual reporting and provides real-time project insights—right within Microsoft Teams.
+
+📹 [PM Ops Copilot Agent Demo](https://github.com/nitjain/PMOpsAgent/blob/af9aa023c7b7ac73fca5d136127f7d21255059eb/Assets%20%26%20Artifacts/PM%20Ops%20Agent.mp4)
+
+### 2. Photo Gallery App
+A modern, Google Photos-style web application built entirely with Angular 17 that runs fully client-side with no backend API.
+
+**Key Features:**
+- 🔐 Microsoft Entra ID authentication
+- ☁️ Azure Blob Storage for photo uploads
+- 📱 Progressive Web App (PWA) with offline support
+- 🖼️ Gallery with infinite scroll and lazy loading
+- 🔍 Search and filter by tags and dates
+- 📤 Drag & drop multi-file uploads
+
+📖 [Photo Gallery Documentation](photo-gallery-app/README-PhotoGallery.md) | 🚀 [Setup Guide](SETUP-GUIDE.md)
+
+---
+
+## 🚀 PM Ops Copilot Agent Overview
 
 ---
 
